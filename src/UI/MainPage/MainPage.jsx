@@ -13,7 +13,7 @@ import Footer from "../Footer/Footer";
 const MainPage = () => {
     return (
         <>
-            <Header/>
+            {/*<Header/>*/}
             <First />
             <PopularCategories/>
             <Product />

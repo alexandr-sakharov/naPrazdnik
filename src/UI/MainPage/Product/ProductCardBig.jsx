@@ -14,7 +14,7 @@ const ProductCardBig = ({
         {img: "img/rate2.png"},
         {img: "img/rate3.png"},
     ]
-    const rating = Array(rate);
+    const rating = [1,2,3,4,5];
     const selected = [
         {price: 1000, count: 10, time: 60},
         {price: 2000, count: 50, time: 60},

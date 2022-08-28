@@ -9,7 +9,7 @@ const Review = ({
                     uploadImg,
                     category = 'test',
 }) => {
-    const rating = Array(rate);
+    const rating = [1,2,3,4,5];
     return (
         <div className="reviewblock">
             <div className="head">

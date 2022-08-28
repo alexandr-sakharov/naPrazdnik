@@ -1,6 +1,6 @@
 import React from 'react';
 import CategoriesCard from "./CategoriesCard";
-import SimpleSlider from "./SliderSlick";
+import SliderSlick from "../../../utils/SliderSlick";
 
 const PopularCategories = () => {
     const popularCategories = [
@@ -36,7 +36,7 @@ const PopularCategories = () => {
                     </div>
                 </div>
                 <div className="popularcategslider">
-                    <SimpleSlider slides={slides}/>
+                    <SliderSlick slides={slides}/>
                 </div>
                 <button className="showmorebtn">
                     Показать ещё <img src="img/showmore.svg" alt="↓"/>

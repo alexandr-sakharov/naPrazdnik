@@ -2,7 +2,7 @@
   "name": "reactkabzda",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saxar17.github.io/social-dev",
+  "homepage": "https://saxar17.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -17,6 +17,7 @@
     "react-router": "^6.2.1",
     "react-router-dom": "^6.0.2",
     "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
     "redux": "^4.1.2",
     "redux-thunk": "^2.4.1",
     "reselect": "^4.1.5",
